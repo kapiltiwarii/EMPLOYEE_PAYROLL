@@ -1,13 +1,13 @@
-package com.bridzlabz.UC5_EmployeePayrollAppSetup;
+package com.bridzlabz.UC6_EmployeePayrollAppSetup;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Uc5EmployeePayrollAppSetupApplication {
+public class Uc6EmployeePayrollAppSetupApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Uc5EmployeePayrollAppSetupApplication.class, args);
+		SpringApplication.run(Uc6EmployeePayrollAppSetupApplication.class, args);
 	}
 
 }

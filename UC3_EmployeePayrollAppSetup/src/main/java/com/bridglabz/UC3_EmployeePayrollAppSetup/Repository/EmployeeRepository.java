@@ -1,6 +1,7 @@
-package com.example.UC2_EmployeePayrollSetup.Repository;
+package com.bridglabz.UC3_EmployeePayrollAppSetup.Repository;
 
-import com.example.UC2_EmployeePayrollSetup.model.Employee;
+import com.bridglabz.UC3_EmployeePayrollAppSetup.Model.Employee;
+import org.hibernate.type.descriptor.converter.spi.JpaAttributeConverter;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

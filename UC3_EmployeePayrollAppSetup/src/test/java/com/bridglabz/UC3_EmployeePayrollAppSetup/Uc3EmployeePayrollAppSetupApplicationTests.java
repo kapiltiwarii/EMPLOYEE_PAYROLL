@@ -1,10 +1,10 @@
-package com.example.UC2_EmployeePayrollSetup;
+package com.bridglabz.UC3_EmployeePayrollAppSetup;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Uc2EmployeePayrollSetupApplicationTests {
+class Uc3EmployeePayrollAppSetupApplicationTests {
 
 	@Test
 	void contextLoads() {

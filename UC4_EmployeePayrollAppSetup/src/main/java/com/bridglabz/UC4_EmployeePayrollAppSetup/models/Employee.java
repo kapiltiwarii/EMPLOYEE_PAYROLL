@@ -1,4 +1,4 @@
-package com.bridglabz.UC3_EmployeePayrollAppSetup.Model;
+package com.bridglabz.UC4_EmployeePayrollAppSetup.models;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

@@ -1,8 +1,8 @@
-package com.bridglabz.UC3_EmployeePayrollAppSetup.Services;
+package com.bridglabz.UC4_EmployeePayrollAppSetup.Services;
 
-import com.bridglabz.UC3_EmployeePayrollAppSetup.Model.Employee;
-import com.bridglabz.UC3_EmployeePayrollAppSetup.Model.EmployeeDTO;
-import com.bridglabz.UC3_EmployeePayrollAppSetup.Repository.EmployeeRepository;
+import com.bridglabz.UC4_EmployeePayrollAppSetup.Repository.EmployeeRepository;
+import com.bridglabz.UC4_EmployeePayrollAppSetup.models.Employee;
+import com.bridglabz.UC4_EmployeePayrollAppSetup.models.EmployeeDTO;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
